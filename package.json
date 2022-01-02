@@ -1,0 +1,24 @@
+{
+  "name": "zenithttv",
+  "version": "1.0.0",
+  "description": "Brady Pettengill (2020-2022).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradyap/zenithttv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradyap/zenithttv/issues"
+  },
+  "homepage": "https://github.com/bradyap/zenithttv#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
